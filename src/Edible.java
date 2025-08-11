@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface Edible {
+public interface Edible {
+    public String howToEat();
 }
